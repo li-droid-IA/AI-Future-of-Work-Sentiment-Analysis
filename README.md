@@ -1,4 +1,4 @@
-# AI and the Future of Work: Sentiment Analysis of YouTube Comments
+## AI and the Future of Work: Sentiment Analysis
 
 ## 📊 Project Overview
 
@@ -20,7 +20,7 @@ The main objective is to understand how people feel about AI in the context of e
 
 ## 📂 Dataset
 
-- **Source:** YouTube comments (manually collected)
+- **Source:**Public online comments (manually collected)
 - **Total samples:** 99 comments
 - **Sentiment labels:**
   - Positive
@@ -44,6 +44,17 @@ The dataset was analyzed to identify sentiment distribution and dominant themes 
 - Skills and Education
 - Economy
 - Remote Work
+
+---
+## 📊 Visualizations
+
+### Sentiment Distribution
+
+![Sentiment Distribution](images/sentiment_distribution.png)
+
+### Main Topics Distribution
+
+![Main Topics Distribution](images/main_topics_distribution.png)
 
 ---
 
@@ -78,12 +89,4 @@ This project demonstrates a complete data analysis workflow, including data coll
 ## 📌 Author
 
 Project developed as part of a data analysis and AI learning journey using Python.
-# AI and the Future of Work: Sentiment Analysis
 
-## Sentiment Distribution
-
-![Sentiment Distribution](images/sentiment_distribution.png)
-
-## Main Topics Distribution
-
-![Main Topics Distribution](images/main_topics_distribution.png)
